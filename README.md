@@ -1,5 +1,5 @@
 ## Recommendation systems
-[Sourec](https://datahack.analyticsvidhya.com/contest/mckinsey-analytics-online-hackathon-recommendation/)
+[Source](https://datahack.analyticsvidhya.com/contest/mckinsey-analytics-online-hackathon-recommendation/)
 
 A students solves a series of challenges. The problem here is to recommend the next 3 challenge given his past 10 challenges.
 
